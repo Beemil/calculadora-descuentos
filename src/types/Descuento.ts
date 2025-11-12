@@ -4,6 +4,7 @@ export interface Descuento {
     producto3: number;
     producto4: number;
     producto5: number;
+    subtotal: number;
     porcentajeDescuento: number;
     montoDescuento: number;
     totalPagar: number;
